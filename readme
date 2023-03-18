@@ -1,15 +1,1 @@
-新库账号、密码、域名
 
-credit_uat	3W_dTolLxp5KOkBVeu3y   加密 secret: “uat_db_secret_key”  加密密码: 54lS6D3RDEDSCsZ1uBj8LnrMVyXVK2bR0Qb1JIVXP04BQs2s
-
-credit_test	yRnfr_uOTvfJ1t2dHKdT      加密 secret: “test_db_secret_key”  加密密码: uCFQ9mt/3ZOYLj6hULaVIUZKFl6GKqtMMRgD2FdQogr6MsWq
-
-credit_dev	Nc3LTtntNDpCTXD_UVQX  加密 secret: "test_db_secret_key”   加密密码：flCWmEsCIlqfvTT/gojbP/p/NKtoVa5WImEnxUlyX8SEFvB7
-
-
-
-mysql-master-seamoney-nonlive-credit-stt.nonlive.dba.shopee.io
-mysql-slave-seamoney-nonlive-credit-stt.nonlive.dba.shopee.io
-
-
- 注意：迁移后的所有库名需要带上对应环境如：credit_fast_escrow_service_my_dev_db
